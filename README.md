@@ -6,11 +6,11 @@ A fun and challenging "Escape the Maze" game built with Python. The game is insp
 
 ### Getting Started
 
-To play the game, simply clone the repository and run the escape_the_maze.py file in your Python environment.
+To play the game, simply clone the repository and run the escape-the-maze.py file in your Python environment.
 
-    git clone https://github.com/yourusername/escape-the-maze.git
+    git clone https://github.com/nadinejackson1/escape-the-maze.git
     cd escape-the-maze
-    python escape_the_maze.py
+    python escape-the-maze.py
 
 ### How to Play
 
